@@ -4,7 +4,7 @@ public class Child extends Parent{
 
 	int childJ=87;
 	int k=89;
-	public void childM1() {
+	public void childM1() {//manas
 		/*super.parentI=56;
 		super.parentM1();*/
 		//System.out.println(super.k);
